@@ -10,3 +10,6 @@ Il progetto _lombardometria_ riguarda la raccolta di dati in formato utilizzabil
 
 ## Come fornire i dati
 Poiché al momento li studiamo utilizzando librerie Python, i dati vanno inseriti come liste Python.
+
+## Obiettivi
+Al momento puntiamo di studiare la differenza e il rapporto tra grafia e dialetto, utilizzando le distanze di Levenshtein.
