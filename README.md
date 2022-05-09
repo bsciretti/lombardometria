@@ -5,8 +5,8 @@ Il progetto _lombardometria_ riguarda la raccolta di dati in formato utilizzabil
 - Swadesh List 207 del dialetto bergamasco e milanese in quattro formati:
   - IPA
   - Ortografia locale (Milanese Classica per il milanese, Ortografia del Ducato per il bergamasco)
-  - Ortografia "Noeuva Grafia Lombarda"
-  - Ortografia Scriver Lombard
+  - Ortografia _Noeuva Grafia Lombarda_
+  - Ortografia _Scriver Lombard_
 
 ## Come fornire i dati
 Poiché al momento li studiamo utilizzando librerie Python, i dati vanno inseriti come liste Python.
