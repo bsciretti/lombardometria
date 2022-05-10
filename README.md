@@ -9,7 +9,9 @@ Il progetto _lombardometria_ riguarda la raccolta di dati in formato utilizzabil
   - Ortografia _Scriver Lombard_
 
 ## Come fornire i dati
-Poiché al momento li studiamo utilizzando librerie Python, i dati vanno inseriti come liste Python.
+Poiché al momento li studiamo utilizzando librerie Python, i dati vanno inseriti come liste Python. Bisogna seguire l'ordine dato da [Wikipedia in lingua inglese](https://en.wikipedia.org/wiki/Swadesh_list). Per chi non lo sapesse una lista Python si distingue dall'essere incapsulata da parentesi quadre e dall'avere ogni elemento separato da virgole e definito da virgolette.
+
+Per la trascrizione IPA, consigliamo di segnare l'accento, ma al momento pensiamo di eliminarlo in fase di elaborazione, cosa che a quanto pare viene fatta dalla maggioranza degli studi dialettometrici.
 
 ## Obiettivi
-Al momento puntiamo di studiare la differenza e il rapporto tra grafia e dialetto, utilizzando le distanze di Levenshtein.
+Al momento puntiamo di studiare la differenza e il rapporto tra grafia e dialetto, utilizzando le distanze di Levenshtein, nei riguardi del milanese e del bergamasco.
