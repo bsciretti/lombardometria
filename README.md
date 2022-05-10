@@ -17,3 +17,7 @@ Per la trascrizione IPA, consigliamo di segnare l'accento, ma al momento pensiam
 
 ## Obiettivi
 Al momento puntiamo di studiare la differenza e il rapporto tra grafia e dialetto, utilizzando le distanze di Levenshtein, nei riguardi del milanese e del bergamasco.
+
+## Contributori
+Ringraziamo i seguenti contributori:
+- StevanCO (dialetto comasco)
