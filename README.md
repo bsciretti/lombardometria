@@ -21,3 +21,4 @@ Al momento puntiamo di studiare la differenza e il rapporto tra grafia e dialett
 ## Contributori
 Ringraziamo i seguenti contributori:
 - StevanCO (dialetto comasco)
+- Glz19 (dialetto bergamasco)
