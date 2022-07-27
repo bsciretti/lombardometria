@@ -10,11 +10,12 @@ Il progetto _lombardometria_ riguarda la raccolta di dati in formato utilizzabil
 
 Sono, in ogni caso, graditi altri dati utilizzabili in futuro. Ogni dialetto dev'essere formattato in questo formato: IPA, ortografia locale, ortografia NOL e ortografia SL.
 
-### Dati graditi
-Per altri confronti sono graditi questi dati:
+### Dati ulteriori
+Per altri confronti sono stati inseriti questi dati:
 - Swadesh List 207 IPA del portoghese europeo standard (Disponibile [qui](https://en.wiktionary.org/wiki/Appendix:Portuguese_Swadesh_list))
 - Swadesh List 207 IPA dell'italiano standard (Disponibile [qui](https://panglossa.fandom.com/wiki/Italian_Swadesh_list))
 
+Esse riportano i propri cognati, non sono quelli utilizzati per il lombardo 
 ## Come fornire i dati
 Poiché al momento li studiamo utilizzando librerie Python, i dati vanno inseriti come liste Python. Bisogna seguire l'ordine dato da [Wikipedia in lingua inglese](https://en.wikipedia.org/wiki/Swadesh_list) e utilizzare se possibile _cognates_ tra i due dialetti. Per chi non lo sapesse una lista Python si distingue dall'essere incapsulata da parentesi quadre e dall'avere ogni elemento separato da virgole e definito da virgolette.
 
